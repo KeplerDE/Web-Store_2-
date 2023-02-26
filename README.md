@@ -1,7 +1,7 @@
 # Web-Store_2-
 for Practice Stack: Python PostgreSQL Redis
 
-1.
+
 Pages and Features included:
 Home
 Login
