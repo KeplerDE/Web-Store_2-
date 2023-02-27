@@ -4,7 +4,7 @@
 
 A starter template madule for creating complex e-commerce web applications. Developed using Django v1.10.6 with best practices in mind.
 
-watch?v=DexPhKYuMcY)
+
 
 ## Pages and Features included:
 1. Home
